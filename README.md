@@ -77,10 +77,9 @@ ansible-playbook --syntax-check
 **Shivam Garud**  
 🧠 *DevOps & Cloud Enthusiast*  
 💼 *Automating deployments, one pipeline at a time!*  
-🌐 [GitHub Profile](https://github.com/Shivamgarud8)
-🌐 [Medium blog](https://medium.com/@shivam.garud2011)
-🌐 [Linkedin](https://www.linkedin.com/in/shivam-garud/)
-🌐 [PortFolio](https://shivam-garud.vercel.app/)
+🌐 [GitHub Profile](https://github.com/iamkrinjal)
+🌐 [Linkedin](linkedin.com/in/krinjal-matekar-1bb9b4320)
+
 
 
 
