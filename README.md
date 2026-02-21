@@ -74,7 +74,7 @@ ansible-playbook --syntax-check
 ---
 
 👨‍💻 **Developed By:**  
-**Shivam Garud**  
+**Krinjal Matekar**  
 🧠 *DevOps & Cloud Enthusiast*  
 💼 *Automating deployments, one pipeline at a time!*  
 🌐 [GitHub Profile](https://github.com/iamkrinjal)
