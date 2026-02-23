@@ -78,7 +78,7 @@ ansible-playbook --syntax-check
 🧠 *DevOps & Cloud Enthusiast*  
 💼 *Automating deployments, one pipeline at a time!*  
 🌐 [GitHub Profile](https://github.com/iamkrinjal)
-🌐 [Linkedin](linkedin.com/in/krinjal-matekar-1bb9b4320)
+🌐 [Linkedin](linkedin.com/in/krinjal-matekar)
 
 
 
